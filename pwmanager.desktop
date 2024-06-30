@@ -1,9 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Name=PwManager
-Exec=python3 /home/carlo/pwmanager/pwmanager.py
-Path=/home/carlo/pwmanager/
-Icon=/home/carlo/pwmanager/pwmanager_icon.png
+Exec=python3 /home/[username]/pwmanager/pwmanager.py
+Path=/home/[username]/pwmanager/
+Icon=/home/[username]/pwmanager/pwmanager_icon.png
 Terminal=true
 Type=Application
 Categories=Utility
